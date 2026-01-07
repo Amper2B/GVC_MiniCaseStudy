@@ -1,0 +1,9 @@
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+seaborn
+pandas
+scikit-learn
+Pillow
