@@ -33,3 +33,8 @@ The 100.0% accuracy recorded for both models suggests a ceiling effect caused by
 
 ## Conclusion
 Feature fusion effectively captures diverse image characteristics, making it ideal for small, specialized datasets. The model successfully distinguished all 10 objects, proving that architectural combination reduces classification errors found in standard models.
+
+
+## Model Weights
+The trained weights for this fusion model exceed GitHub's direct upload limit. 
+You can download the `.pth` file here: [Download fusion_model_weights.pth]https://drive.google.com/drive/folders/1JiCxCcOwZSMwYNm6GyCCpaZxjZAuYz7j
